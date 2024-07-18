@@ -28,8 +28,6 @@ The script contains several functions, each with a specific purpose:
 - `count_words(file_name)`: Counts the total number of words in the file.
 - `count_unique_words(file_name, words_no_punc)`: Counts the unique words in the file, using the English words list for reference.
 
-## How to Use
-
 ## Run the Script:
 
 Execute the main.py script:
@@ -38,17 +36,11 @@ Execute the main.py script:
 Copy code
 python main.py
 Follow the Prompts:
-
-Enter a name for your new text file when prompted.
-Input your text (you can enter multiple lines, and press Enter on a blank line to finish).
-The script will write your input to the specified file, count the total number of words, and count the unique words, displaying the results in the console.
-
 ```
-Example
+
+## Example
 
 Here's an example of using the script:
-
-Run the script:
 
 ```bash
 Copy code
