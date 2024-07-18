@@ -56,16 +56,13 @@ python main.py
 Enter a name for your text file, e.g., my_new_text_file.txt.
 
 Enter your text (press Enter on a blank line to finish):
-
-arduino
-Copy code
+...
 new line: Hello world
 new line: Testing, one two.
 new line:
 The script will output:
 
-vbnet
-Copy code
+...
 Your file 'my_text_file.txt' contains 5 words.
 
 Unique words and their counts:
