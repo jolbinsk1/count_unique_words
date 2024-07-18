@@ -21,12 +21,12 @@ Move the downloaded words.txt file to your current working directory.
 
 The script contains several functions, each with a specific purpose:
 
--`load_word_list()`: Loads the list of English words from words.txt.
--`name_the_file()`: Prompts the user to enter a name for the new text file.
--`get_input()`: Allows the user to input multiple lines of text.
--`write_to_file(file_name, content)`: Writes the user-generated content to a file.
--`count_words(file_name)`: Counts the total number of words in the file.
--`count_unique_words(file_name, words_no_punc)`: Counts the unique words in the file, using the English words list for reference.
+- `load_word_list()`: Loads the list of English words from words.txt.
+- `name_the_file()`: Prompts the user to enter a name for the new text file.
+- `get_input()`: Allows the user to input multiple lines of text.
+- `write_to_file(file_name, content)`: Writes the user-generated content to a file.
+- `count_words(file_name)`: Counts the total number of words in the file.
+- `count_unique_words(file_name, words_no_punc)`: Counts the unique words in the file, using the English words list for reference.
 
 ## How to Use
 
