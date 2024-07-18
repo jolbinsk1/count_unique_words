@@ -10,13 +10,12 @@ git clone https://github.com/jolbinsk1/count_unique_words.git
 ```
 
 2) Download the English Words List:
-
-3) Navigate to the following repository and download the words.txt file, which contains a comprehensive list of English words:
-https://github.com/dwyl/english-words/blob/master/words.txt
+- navigate to the following repository and download the words.txt file, which contains a comprehensive list of English words:
+- https://github.com/dwyl/english-words/blob/master/words.txt
 
 4) Move the words.txt File:
 
-Move the downloaded words.txt file to your current working directory where the script will be executed.
+Move the downloaded words.txt file to your current working directory.
 
 ## Script Functions
 
