@@ -33,7 +33,6 @@ The script contains several functions, each with a specific purpose:
 Execute the main.py script:
 
 ```bash
-Copy code
 python main.py
 Follow the Prompts:
 ```
@@ -43,7 +42,6 @@ Follow the Prompts:
 Here's an example of using the script:
 
 ```bash
-Copy code
 python main.py
 Enter a name for your text file, e.g., my_new_text_file.txt.
 
