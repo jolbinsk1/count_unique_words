@@ -34,8 +34,8 @@ Execute the main.py script:
 
 ```bash
 python main.py
-Follow the Prompts:
 ```
+Follow the Prompts
 
 ## Example
 
