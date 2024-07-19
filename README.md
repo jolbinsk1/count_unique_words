@@ -43,7 +43,7 @@ Here's an example of using the script:
 
 ```bash
 python main.py
-Enter a name for your text file, e.g., my_new_text_file.txt.
+Enter a name for your text file
 
 Enter your text (press Enter on a blank line to finish):
 ...
